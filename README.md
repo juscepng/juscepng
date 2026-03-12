@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Prazer, eu sou o Juscelino, mas pode me chamar de Jusce!
+Prazer, eu sou o Juscelino, mas pode me chamar de Jusce!
 
 Sou um desenvolvedor Frontend, com mais expertise em Angular.
 
