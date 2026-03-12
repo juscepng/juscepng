@@ -4,8 +4,6 @@ Prazer, eu sou o Juscelino, mas pode me chamar de Jusce!
 
 Sou um desenvolvedor Frontend, com foco maior em Angular.
 
-<hr style="height: 1px">
-
 ## 🚀 Tecnologias
 
 <div align="center">
@@ -25,7 +23,5 @@ Sou um desenvolvedor Frontend, com foco maior em Angular.
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
-
-<hr style="height: 1px">
 
 > *be safe, friend. Don't you dare go hollow.* 🔥
