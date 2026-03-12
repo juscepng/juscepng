@@ -4,7 +4,7 @@ Prazer, eu sou o Juscelino, mas pode me chamar de Jusce!
 
 Sou um desenvolvedor Frontend, com mais expertise em Angular.
 
-<div style="display: inline_block; text-align: center"><br>
+<div style="display: inline_block; margin: 0 auto"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
