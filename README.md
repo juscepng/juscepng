@@ -2,7 +2,7 @@
 
 Prazer, eu sou o Juscelino, mas pode me chamar de Jusce!
 
-Sou um desenvolvedor Frontend, com foco maior em Angular.
+Sou um desenvolvedor Frontend, com foco maior em Angular e algum conhecimento em Java.
 
 ## 🚀 Tecnologias
 
